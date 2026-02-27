@@ -11,7 +11,7 @@ int balance = 500;
 const int uid =232323;
 
 
- 
+ //cout<< "welcome to the target"<< endl;
 cout<< "welcome to the target"<< endl;
 
 return 0; 
